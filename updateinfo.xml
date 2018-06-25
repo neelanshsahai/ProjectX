@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateInfo>
+    <appName>xyz</appName>
+    <appDescription>android autoupdater</appDescription>
+    <packageName>com.github.snowdream.android.apps.autoupdater</packageName>
+    <versionCode>2</versionCode>
+    <versionName>2.0</versionName>
+    <forceUpdate>false</forceUpdate>
+    <autoUpdate>false</autoUpdate>
+    <apkUrl>https://www.appsapk.com/downloading/latest/SHAREit%20-%20Transfer%20&%20Share-3.8.8_ww.apk</apkUrl>
+    <updateTips>
+        <default>update tips</default>
+        <en>update tips - yo</en>
+        <zh>YoBC1升级提示\n1.版本检查\n2.版本维护\n3.版本更新</zh>
+        <zh_CN>1.) 升级提示</zh_CN>
+        <zh_TW>2.) 升级提示</zh_TW>
+        <zh_HK>3.) 升级提示</zh_HK>
+    </updateTips>
+</updateInfo>
